@@ -1,0 +1,97 @@
+/* Discord Nitro remover */
+/* https://github.com/x-wav/DiscordNitroRemover */
+/* made by x-wav */
+/* https://github.com/x-wav */
+
+
+/* Removes Home Nitro Button */
+a[href="/store"] {
+    display: none
+}
+
+/* Removes Gift Nitro Button In Chat */
+button[aria-label="Send a gift"] {
+    display: none;
+}
+
+/* Removes Server Boost Button */
+.colorPremium-vwmYZQ {
+    display: none
+}
+
+/* Removes Boost Progress Bar */
+.container-2giAcK {
+    display: none
+}
+
+
+/* Settings Menu */
+
+/* Removes Billing Settings Category */
+.side-2ur1Qk .header-2Kx1US {
+    display: none
+}
+
+/* Removes Discord Nitro Button in Settings */
+div[aria-label="Discord Nitro"] {
+    display: none
+}
+
+/* Removes Server Boost Button in Settings */
+div[aria-controls="nitro-server-boost-tab"] {
+    display: none
+}
+
+/* Removes Subscriptions Button in Settings */
+div[aria-label="Subscriptions"] {
+    display: none
+}
+
+/* Removes Gift Inventory Button in Settings */
+div[aria-label="Gift Inventory"] {
+    display: none
+}
+
+/* Removes Billing in Settings */
+div[aria-controls="billing-tab"] {
+    display: none
+}
+
+
+/* User Profile Settings */
+
+/* Removes Profile Banner Text */
+h5[class="colorStandard-21JIj7 size14-3fJ-ot h5-2RwDNl title-3hptVQ defaultMarginh5-3Jxf6f"] {
+    display: none
+}
+
+/* Removes Profile Banner Note (and About Me Note) */
+div[class="colorStandard-21JIj7 size14-3fJ-ot description-30xx7u formText-2ngGjI sectionDescription-ol6C7B modeDefault-2fEh7a"] {
+    display: none
+}
+
+/* Removes Unlock with Nitro Button */
+button[class="shinyButton-2Q9MDB button-f2h6uQ lookFilled-yCfaCM colorGreen-3y-Z79 sizeMedium-2bFIHr grow-2sR_-F"] {
+    display: none
+}
+
+/* Removes Unlock Banner Button */
+.bannerNitroUpsell-2iP18z {
+    display: none
+}
+
+/* Removes Nitro Button in Avartar gif Selection */
+div[class="contents-3ca1mk premiumSubscribeButton-17z7Tg"] {
+    display: none
+}
+
+/* Removes Nitro ad in Server Profile Settings */
+.upsellContainer-3qKRln {
+    display: none
+}
+
+/* Removes Change Avatar, Change Banner and About Me in Server Profile Settings */
+div[class="customizationSection-IGy2fS disabled-32c3US"] {
+    display: none
+}
+
